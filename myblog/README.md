@@ -1,4 +1,4 @@
-This is my Django Task Manager project.
+This is my Django blog project.
 
 
 ## Features
@@ -15,27 +15,27 @@ This is my Django Task Manager project.
 
 
 Create post Page:  
-![Create post](screenshorts/create_new_post.png)
+![Create post](screenshots/create_new_post.png)
 
 Dashboard Page:  
-![Dashboard](screenshorts/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 Home Page:  
-![Home](screenshorts/home.png)
+![Home](screenshots/home.png)
 
 Login Page:  
-![Login](screenshorts/login.png)
+![Login](screenshots/login.png)
 
 Delete post:  
-![Delete post](screenshorts/post_delete.png)
+![Delete post](screenshots/post_delete.png)
 
 
 Post edit Page:  
-![Login](screenshorts/post_edit.png)
+![Login](screenshots/post_edit.png)
 
 
 Register Page:  
-![Register](screenshorts/register.png)
+![Register](screenshots/register.png)
 
 
-
+<!-- Updated Screenshots -->
