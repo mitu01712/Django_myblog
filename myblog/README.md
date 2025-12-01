@@ -1,41 +1,42 @@
-This is my Django blog project.
+# Django Blog Project
 
+This is my Django blog project. A fully functional Blog Application built with Django.
 
 ## Features
-- Create new post
-- Dashboard
-- Delete post
-- Edit post
 
+* Create new post
 
+* Dashboard
 
+* Delete post
+
+* Edit post
+
+* User Authentication (Login/Register)
+
+* Search Functionality
+
+* Post Filtering by Tags
 
 ## Screenshots
-## Screenshots
 
+### Create Post Page
+![Create Post](screenshots/create_new_post.png)
 
-Create post Page:  
-![Create post](screenshots/create_new_post.png)
-
-Dashboard Page:  
+### Dashboard Page
 ![Dashboard](screenshots/dashboard.png)
 
-Home Page:  
+### Home Page
 ![Home](screenshots/home.png)
 
-Login Page:  
+### Login Page
 ![Login](screenshots/login.png)
 
-Delete post:  
-![Delete post](screenshots/post_delete.png)
+### Delete Post Confirmation
+![Delete Post](screenshots/post_delete.png)
 
+### Edit Post Page
+![Edit Post](screenshots/post_edit.png)
 
-Post edit Page:  
-![Login](screenshots/post_edit.png)
-
-
-Register Page:  
+### Register Page
 ![Register](screenshots/register.png)
-
-
-<!-- Updated Screenshots -->
